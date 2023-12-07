@@ -22,7 +22,7 @@ To refine my coding abilities in Python and from using Pandas. The main goal is 
 
 ## Repo Sections
 - Jupyerlab Notebook
-- Link to data set below
+- Link to data set: 
 https://drive.google.com/file/d/1O_F11n7kHmzr3I66aY0bpASpaCNqI5WP/view?usp=sharing
 
 
