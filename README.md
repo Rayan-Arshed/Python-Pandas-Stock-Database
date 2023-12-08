@@ -21,7 +21,7 @@ To refine my coding abilities in Python and from using Pandas. The main goal is 
 - sort_values()
 
 ## Repo Sections
-- Jupyerlab Notebook
+- Jupyterlab Notebook
 - Link to data set: 
 https://drive.google.com/file/d/1O_F11n7kHmzr3I66aY0bpASpaCNqI5WP/view?usp=sharing
 
